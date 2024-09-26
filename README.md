@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 my name is Azam Sultan, a current software devloper studying at UIC with skills in C++ and Python
+
+I have always loved problem solving and creating new things, coding and software devlopment fuffiled both of those needs for me.
+
+
 
 <!--
 **azamsultan/azamsultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
